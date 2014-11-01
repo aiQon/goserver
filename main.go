@@ -3,7 +3,8 @@ package main
 import (
 	"encoding/json"
 	"net/http"
-
+	"github.com/aiQon/goserver/controllers"
+	"github.com/aiQon/goserver/models"
 	"github.com/gorilla/mux"
 )
 
